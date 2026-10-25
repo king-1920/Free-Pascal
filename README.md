@@ -217,4 +217,4 @@ Free Pascal is available as a full free version, with all features and updates i
 Download Free Pascal today and embark on your programming journey with the best tools at your fingertips!
 
 ---
-**Last updated:** 2026-10-24 22:06:50 UTC
+**Last updated:** 2026-10-25 00:40:58 UTC
